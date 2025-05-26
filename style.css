@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders:opsz,wght@10..72,100..900&family=Cabin+Sketch:wght@400;700&family=Cedarville+Cursive&family=GFS+Didot&family=Handlee&family=Jacquard+12&family=Lexend:wght@500&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Playwrite+CA+Guides&display=swap');
     
 .parallax-gato {
-  background-image: url('img/flow-cat.jpg'); /* Cambia esto según la ruta de tu imagen */
+  background-image: url('img/flow2024.png'); /* Cambia esto según la ruta de tu imagen */
   height: 100vh;
   background-attachment: fixed;
   background-position: center;
